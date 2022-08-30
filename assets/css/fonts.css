@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'poppins';
+  src: url('../fonts/Poppins/Poppins-Regular.ttf');
+}
+@font-face {
+  font-family: 'poppins-bold';
+  src: url('../fonts/Poppins/Poppins-Bold.ttf');
+}
+@font-face {
+  font-family: 'poppins-light';
+  src: url('../fonts/Poppins/Poppins-Light.ttf');
+}
+@font-face {
+  font-family: 'poppins-medium';
+  src: url('../fonts/Poppins/Poppins-Medium.ttf');
+}
+@font-face {
+  font-family: 'poppins-semibold';
+  src: url('../fonts/Poppins/Poppins-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'poppins-xbold';
+  src: url('../fonts/Poppins/Poppins-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'pushpenny';
+    src: url('../fonts/PushPenny/PushPenny-Book.ttf');
+}
+@font-face {
+    font-family: 'pushpenny-bold';
+    src: url('../fonts/PushPenny/PushPenny-Bold.ttf');
+}
+@font-face {
+    font-family: 'pushpenny-light';
+    src: url('../fonts/PushPenny/PushPenny-Light.ttf');
+}
+@font-face {
+    font-family: 'pushpenny-medium';
+    src: url('../fonts/PushPenny/PushPenny-Medium.ttf');
+}
+@font-face {
+    font-family: 'pushpenny-xbold';
+    src: url('../fonts/PushPenny/PushPenny-ExtraBold.ttf');
+}
