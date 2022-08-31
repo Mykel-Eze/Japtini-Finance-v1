@@ -16,7 +16,7 @@
               </p>
             </div>
             <div class="home-img-side">
-              <img src="~/assets/images/home-img.png" alt="home-img" class="full-width">
+              <img src="~/assets/images/home-img-2.png" alt="home-img" class="full-width">
             </div>
           </div>
         </div>
@@ -39,7 +39,7 @@
 
           <div class="section-content">
             <div class="vision-img-wrapper rel">
-              <img src="~/assets/images/vision-photo.jpg" alt="our vision" class="vision-img-banner">
+              <img src="~/assets/images/vision-photo-2.jpg" alt="our vision" class="vision-img-banner">
               <div class="the-gap-we-fill center">
                 <h2 class="section-title">
                   The Gap We Fill
@@ -141,7 +141,7 @@
         <div class="container">
           <div class="target-wrapper flex-div">
             <div class="africa-img-wrapper">
-              <img src="../assets/images/africa.png" alt="africa" class="africa-img">
+              <img src="../assets/images/africa-2.png" alt="africa" class="africa-img">
             </div>
             <div class="targeted-reach-txts">
               <h2 class="section-title">
